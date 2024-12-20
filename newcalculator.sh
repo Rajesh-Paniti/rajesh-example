@@ -9,3 +9,8 @@ echo "Add"
 echo "subtract"
 
 b=3-1
+
+echo "division"
+
+c=1/1
+
