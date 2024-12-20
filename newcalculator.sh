@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#some new feature
+
 echo "This is a calculator script"
 
 a=1+2
