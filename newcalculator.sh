@@ -14,3 +14,5 @@ echo "division"
 
 c=1/1
 
+echo "multiply"
+d=1*1
